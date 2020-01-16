@@ -9,6 +9,7 @@
 Hello *markdown* 斜體
 Hello **markdown** 粗體
 Hello ***markdown*** 斜+粗體
-Hello __markdown__ 刪除線
+Hello ~~markdown~~ 刪除線
+
 
 
