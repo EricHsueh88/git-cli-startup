@@ -20,3 +20,15 @@ Hello ~~markdown~~ 刪除線
 ---
 
 Hello `markdown`
+
+```
+hello World
+hello World
+```
+
+```python
+def hello():
+    print ('Hello World')
+
+hello()
+```
